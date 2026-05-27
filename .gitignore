@@ -1,0 +1,7 @@
+venv/
+sessions/
+__pycache__/
+*.pyc
+*.md
+.env
+export_*.md
