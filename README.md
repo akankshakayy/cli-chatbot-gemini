@@ -16,7 +16,7 @@ streaming responses, and multiple personas.
 ## Setup
 
 1. Clone the repo
-   git clone https://github.com/yourname/cli-chatbot-gemini.git
+   git clone https://github.com/akankshakayy/cli-chatbot-gemini.git
    cd cli-chatbot-gemini
 
 2. Create virtual environment
